@@ -1,6 +1,4 @@
-<p align="center">
-<img width="100%"  src="https://user-images.githubusercontent.com/95936002/194173415-75c97323-4bf1-46f1-bb6e-0fbbd8dce700.png" />
- </p>
+
 <h1 align="center">Hi 👋, I'm Dmytrii</h1>
 <h3 align="center">A passionate fullstack developer and science enthusiast from Ukraine </h3>
 
