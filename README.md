@@ -13,8 +13,8 @@
 
 
 
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmytrii-shypilov&show_icons=true&locale=en&layout=compact" alt="dmytrii-shypilov" /></p>
+<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmytrii-shypilov&show_icons=true&locale=en&layout=compact" alt="dmytrii-shypilov" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=dmytrii-shypilov&show_icons=true&locale=en" alt="dmytrii-shypilov" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dmytrii-shypilov&show_icons=true&locale=en" alt="dmytrii-shypilov" /></p>
+
 
 
