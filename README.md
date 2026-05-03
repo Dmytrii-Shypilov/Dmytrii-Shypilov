@@ -27,15 +27,6 @@
 
 ---
 
-<h3 align="left">📈 Current Project:</h3>
-
-- 🔗 Crypto Trading Simulator  
-- 📡 Real-time market data via WebSockets  
-- 📊 Candlestick charts with ApexCharts  
-- 🔐 Google OAuth authentication system  
-
----
-
 <h3 align="left">📊 GitHub Stats:</h3>
 
 
