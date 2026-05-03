@@ -5,8 +5,7 @@
 
 
 - ⚡ Working with **React + Next.js + FastAPI + WebSockets**
-- 🧠 Interested in **Learnoing Machine Learning**
-- 💬 Ask me about **React, Next.js, FastAPI, Crypto Trading**
+- 🧠 Learning **AI and Machine Learning**
 - 📫 Reach me at: **dmytriishypilov@gmail.com**
 
 ---
