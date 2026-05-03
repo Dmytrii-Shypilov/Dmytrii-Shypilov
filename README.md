@@ -49,9 +49,6 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_PROFILE" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" />
-</a>
 <a href="https://github.com/DMYTRII-SHYPILOV" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" />
 </a>
