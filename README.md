@@ -15,7 +15,7 @@
 <p align="left">
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass" />
 
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
